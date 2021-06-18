@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1618479669 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak8_0415\graphicskit\widgets.cpp
+	"widgets.hpp"
+	"application.hpp"
+
+1618480516 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak8_0415\graphicskit\widgets.hpp
+	"graphics.hpp"
+
+1488260528 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak8_0415\graphicskit\include\graphics.hpp
+	<string>
+
+1618480516 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak8_0415\graphicskit\main.cpp
+	"textedit.hpp"
+	"application.hpp"
+	<vector>
+	<fstream>
+	<iostream>
+
+1618479483 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak8_0415\graphicskit\textedit.hpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1618479018 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak8_0415\graphicskit\application.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+
+1618479511 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak8_0415\graphicskit\textedit.cpp
+	"textedit.hpp"
+	"graphics.hpp"
+
+1618479016 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak8_0415\graphicskit\application.cpp
+	"application.hpp"
+
+1623948335 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak9_0422\tobbsorosszoveg\application.cpp
+	"application.hpp"
+
+1619078575 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak9_0422\tobbsorosszoveg\application.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+
+1488260528 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak9_0422\tobbsorosszoveg\include\graphics.hpp
+	<string>
+
+1619084532 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak9_0422\tobbsorosszoveg\widgets.hpp
+	"graphics.hpp"
+	<vector>
+	<fstream>
+	<iostream>
+
+1619081032 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak9_0422\tobbsorosszoveg\textedit.cpp
+	"textedit.hpp"
+	"graphics.hpp"
+
+1619081022 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak9_0422\tobbsorosszoveg\textedit.hpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1618479669 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak9_0422\tobbsorosszoveg\widgets.cpp
+	"widgets.hpp"
+	"application.hpp"
+
+1623948320 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak9_0422\tobbsorosszoveg\main.cpp
+	"textedit.hpp"
+	"application.hpp"
+	"multiline.hpp"
+	<vector>
+	<fstream>
+	<iostream>
+
+1623956919 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak9_0422\tobbsorosszoveg\multiline.cpp
+	"multiline.hpp"
+
+1623924389 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak9_0422\tobbsorosszoveg\multiline.hpp
+	"widgets.hpp"
+
+1624037604 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\application.cpp
+	"application.hpp"
+
+1624036229 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\application.hpp
+	"widgets.hpp"
+
+1488260528 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\include\graphics.hpp
+	<string>
+
+1624035014 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\widgets.hpp
+	"graphics.hpp"
+	<vector>
+	<iostream>
+	<fstream>
+
+1623956919 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\multiline.cpp
+	"multiline.hpp"
+
+1623924389 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\multiline.hpp
+	"widgets.hpp"
+
+1621265274 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\widgets.cpp
+	"widgets.hpp"
+	"application.hpp"
+
+1624037750 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\kivalaszto.cpp
+	"kivalaszto.hpp"
+
+1624029093 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\kivalaszto.hpp
+	"widgets.hpp"
+	<vector>
+
+1624036320 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\main.cpp
+	"application.hpp"
+	"kivalaszto.hpp"
+
