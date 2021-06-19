@@ -44,9 +44,9 @@
 		<Unit filename="application.hpp" />
 		<Unit filename="kivalaszto.cpp" />
 		<Unit filename="kivalaszto.hpp" />
+		<Unit filename="kivalaszto_.cpp" />
+		<Unit filename="kivalaszto_.hpp" />
 		<Unit filename="main.cpp" />
-		<Unit filename="multiline.cpp" />
-		<Unit filename="multiline.hpp" />
 		<Unit filename="widgets.cpp" />
 		<Unit filename="widgets.hpp" />
 		<Extensions>

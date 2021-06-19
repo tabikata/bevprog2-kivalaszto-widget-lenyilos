@@ -98,7 +98,7 @@ std::string Kivalaszto::value()
     }
     else
     {
-        return ".";
+        return "";
     }
 }
 

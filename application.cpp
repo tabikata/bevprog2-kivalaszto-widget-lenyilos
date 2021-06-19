@@ -5,7 +5,7 @@ using namespace genv;
 Application::Application(int width, int height)
 {
     gout.open(width, height);
-    gout.load_font("LiberationSans-Regular.ttf", 10);
+    gout.load_font("LiberationSans-Regular.ttf", 12);
 }
 
 void Application::event_loop()

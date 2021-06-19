@@ -2,7 +2,6 @@
 #define KIVALASZTO_HPP
 
 #include "widgets.hpp"
-#include <vector>
 
 class Kivalaszto: public Widget
 {

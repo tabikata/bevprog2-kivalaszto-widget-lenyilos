@@ -75,7 +75,7 @@
 1623924389 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\gyak9_0422\tobbsorosszoveg\multiline.hpp
 	"widgets.hpp"
 
-1624037604 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\application.cpp
+1624052882 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\application.cpp
 	"application.hpp"
 
 1624036229 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\application.hpp
@@ -100,14 +100,20 @@
 	"widgets.hpp"
 	"application.hpp"
 
-1624037750 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\kivalaszto.cpp
+1624055622 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\kivalaszto.cpp
 	"kivalaszto.hpp"
 
-1624029093 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\kivalaszto.hpp
+1624046873 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\kivalaszto.hpp
 	"widgets.hpp"
-	<vector>
 
-1624036320 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\main.cpp
+1624055405 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\main.cpp
 	"application.hpp"
 	"kivalaszto.hpp"
+	"kivalaszto_.hpp"
+
+1624054342 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\kivalaszto_.hpp
+	"widgets.hpp"
+
+1624111831 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead2\kivalaszto_widget_fejlesztes\kivalaszto_.cpp
+	"kivalaszto_.hpp"
 
